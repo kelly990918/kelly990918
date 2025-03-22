@@ -12,7 +12,3 @@
 </ol>
 <p>idk what else to include... then I guess...</p>
 <p>ciao ciao!</p>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@kelly990918/30-nites-of-code)  
-  ![@kelly990918 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kelly990918)
