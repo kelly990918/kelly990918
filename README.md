@@ -1,3 +1,5 @@
+![Profile Image](profile.JPG)
+
 Hi! This is Kelly!
 I know people are making fancy READMEs but I'm going to keep it simple
 
