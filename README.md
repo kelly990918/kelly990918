@@ -1,7 +1,7 @@
 ![Profile Image](profile.JPG)
 
-_Hi!_
+_hi!_
 
-_I joined GitHub on my 25th birthday_  
+_i joined github on my 25th birthday_  
   
 _bye_   
