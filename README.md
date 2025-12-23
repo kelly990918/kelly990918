@@ -1,7 +1,9 @@
 ![Profile Image](profile.JPG)
 
-_hi! this is kelly!_
+_hi! this is Kelly!_
 
-site guide: <br>
+Site guide: <br>
 [`/travel-things/`](https://github.com/kelly990918/travel-things): travel writings <br>
-[`/NYUCapstone-KongTone/`](https://github.com/kelly990918/NYUCapstone-KongTone): nyu capstone - kongtone <br>
+[`/NYUCapstone-KongTone/`](https://github.com/kelly990918/NYUCapstone-KongTone): NYU capstone - KongTone <br>
+
+_thank you for visiting!_
