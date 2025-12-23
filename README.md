@@ -1,7 +1,7 @@
 ![Profile Image](profile.JPG)
 
-_hi!_
+_hi! this is kelly!_
 
-_i joined github on my 25th birthday_  
-  
-_bye_   
+site guide:
+/[travel-things](https://github.com/kelly990918/travel-things)/: travel writings
+/[NYUCapstone-KongTone](https://github.com/kelly990918/NYUCapstone-KongTone)/: nyu capstone - kongtone
