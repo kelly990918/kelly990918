@@ -2,7 +2,10 @@
 
 _hi! this is Kelly!_
 
-Site guide: <br>
+i do know how to code a html site, but .md files are too convenient when it comes to making neat index display for my stuff<br>
+that's why i'm here, using github as my profile page<br>
+
+pinned repos related to publishing:
 [`/travel-things/`](https://github.com/kelly990918/travel-things): travel writings <br>
 [`/NYUCapstone-KongTone/`](https://github.com/kelly990918/NYUCapstone-KongTone): NYU capstone - KongTone <br>
 [`/NYU-Highlights/`](https://github.com/kelly990918/NYU-Highlights): Some course projects I did in the NYU MS in Publishing program
