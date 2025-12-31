@@ -2,11 +2,11 @@
 
 _hi! this is kelly!_
 
-I do know how to code a html site, but .md files are too convenient when it comes to making neat index display for my stuff<br>
-that's why I'm here, using GitHub as my profile page<br>
+I do know how to code a html site, but .md files are too convenient when it comes to making neat index display for my stuff.<br>
+That's why I'm here, using GitHub as my profile page.<br>
 
-I'm interested in books, but more interested in the transmission of messages through different channels<br>
-that's why I want to be in the publishing industry!<br>
+I'm interested in books, but more interested in the transmission of messages through different channels.<br>
+That's why I want to be in the publishing industry!<br>
 
 Pinned repos related to publishing:
 - [`/travel-things/`](https://github.com/kelly990918/travel-things): Travel writings (mostly in Chinese)
