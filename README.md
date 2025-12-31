@@ -12,6 +12,6 @@ Pinned repos related to publishing:
 - [`/travel-things/`](https://github.com/kelly990918/travel-things): Travel writings (mostly in Chinese)
 - [`/NYU-Capstone-KongTone/`](https://github.com/kelly990918/NYUCapstone-KongTone): NYU capstone project - KongTone
 - [`/NYU-Highlights/`](https://github.com/kelly990918/NYU-Highlights): Some creative course projects I did in the NYU MS in Publishing program
-- [`/CUHK-MA-thesis/`](https://github.com/kelly990918/kelly990918/blob/main/CUHK-MA-Thesis.pdf): CUHK Master's thesis on Sylvia Plath's _The Bell Jar_. A paper aiming to appreciate the intrinsic, artistic value of Plath's writing.
+- [`/CUHK-MA-Thesis/`](https://github.com/kelly990918/kelly990918/blob/main/CUHK-MA-Thesis.pdf): CUHK Master's thesis on Sylvia Plath's _The Bell Jar_. A paper aiming to appreciate the intrinsic, artistic value of Plath's writing.
 
 _thank you for visiting!_
