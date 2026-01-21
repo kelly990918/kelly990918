@@ -14,6 +14,6 @@ Pinned repos related to publishing:
 - [`/NYU-Highlights/`](https://github.com/kelly990918/NYU-Highlights): Some creative course projects I did in the NYU MS in Publishing program
 - [`/CUHK-MA-Thesis/`](https://github.com/kelly990918/kelly990918/blob/main/CUHK-MA-Thesis.pdf): CUHK Master's thesis on Sylvia Plath's _The Bell Jar_. A paper aiming to appreciate the intrinsic, artistic value of Plath's writing.
 
-[See my CV here!](https://github.com/kelly990918/kelly990918/blob/main/Leung_resume.docx)
+[See my CV here!](https://github.com/kelly990918/kelly990918/blob/main/Leung_resume.pdf)
 
 _thank you for visiting!_
